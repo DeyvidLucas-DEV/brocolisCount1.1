@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  background: linear-gradient(black, green) no-repeat;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
